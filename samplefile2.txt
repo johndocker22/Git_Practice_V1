@@ -1,4 +1,1 @@
 Adding something in samplefile2
-
-
-Revert 2
