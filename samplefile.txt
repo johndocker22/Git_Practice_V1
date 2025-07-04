@@ -1,3 +1,6 @@
 Adding something in file samplefile1
 
 Revert 1
+
+Adding something
+
