@@ -1,1 +1,5 @@
 Adding something in file samplefile1
+
+Adding 2nd line
+
+Adding 3rd line
